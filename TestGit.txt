@@ -8,6 +8,10 @@ This is firt file on Git
 
 Second line added in file
 
+
+third line added in file for first-branch
+
 added in Master branch this line
+
 
 Thank you :)
