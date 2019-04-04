@@ -4,3 +4,6 @@
 Welcome to Test GIT
 
 This is firt file on Git 
+
+
+Second line added in file
