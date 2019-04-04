@@ -8,4 +8,6 @@ This is firt file on Git
 
 Second line added in file
 
+added in Master branch this line
+
 Thank you :)
